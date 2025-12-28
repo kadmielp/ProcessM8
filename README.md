@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/languages/count/kadmielp/ProcessM8" alt="GitHub language count" />
   <img src="https://img.shields.io/github/repo-size/kadmielp/ProcessM8" alt="GitHub repo size" />
   <img src="https://img.shields.io/github/last-commit/kadmielp/ProcessM8" alt="GitHub last commit" />
+  <img alt="GitHub License" src="https://img.shields.io/github/license/kadmielp/processm8">
 </p>
 <h1 align="center">ProcessM8: Next-Gen Process Intelligence</h1>
 **ProcessM8** is a high-fidelity, data-driven software platform for visualizing, analyzing, and optimizing enterprise workflows. It transforms static business process diagrams into dynamic **Digital Twins** that provide actionable, real-time insights through AI-driven simulation and analysis.
