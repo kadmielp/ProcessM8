@@ -20,10 +20,10 @@ A comprehensive toolset for collaborative process design and scoping.
 
 ### 2. Analysis & Optimization (The Intelligence Engine)
 The analytical core that transforms maps into dynamic execution models.
-*   **AI Digital Twin Simulation**: A "What-If" engine powered by Google Gemini (Flash & Pro versions) to forecast cycle time and cost impacts.
+*   **AI Digital Twin Simulation**: A "What-If" engine powered by Gemini 3.0 to forecast cycle time and cost impacts.
 *   **Automated Bottleneck Detection**: Visual heat-mapping of efficiency leaks and queue risks.
 *   **Integrated RCA (Fishbone)**: AI-assisted Root Cause Analysis using Ishikawa methodology and "5 Whys" synthesis.
-*   **Process Mining**: Auto-generation of "As-Is" process maps directly from system event logs (CSV/Jira/Salesforce).
+*   **Process Mining**: Auto-generation of "As-Is" process maps from pasted event logs or CSV data.
 
 ### 3. Platform & Collaboration (The Engine Room)
 Enterprise-grade infrastructure for team-wide process intelligence.
@@ -50,7 +50,7 @@ Enterprise-grade infrastructure for team-wide process intelligence.
 *   **Bundler**: Vite
 *   **Styling**: Tailwind CSS (Enterprise Design System)
 *   **AI**: Google Gemini API (Flash/Pro Models)
-*   **Modeling**: BPMN-js, DMN-js, custom SVG Canvas for VSM and Fishbone.
+*   **Modeling**: bpmn-js, dmn-js, and custom SVG Canvas for VSM and Fishbone diagrams.
 *   **Analytics**: Recharts (High-performance data visualization)
 
 ---
